@@ -10,6 +10,8 @@
 
 **（一） 项目结构**
 
+![项目结构](https://github.com/imrewang/DodgeBullets/blob/main/DodgeBullets%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png?raw=true)
+
 **（二） 运行截图**
 
 ![运行截图](https://github.com/imrewang/DodgeBullets/blob/main/DodgeBullets%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png?raw=true)
