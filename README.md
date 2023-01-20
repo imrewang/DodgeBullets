@@ -6,9 +6,13 @@
 
 子弹：数组
 
-## 三、算法
+## 三、截图
 
-。。。
+**（一） 项目结构**
+
+**（二） 运行截图**
+
+![运行截图](https://github.com/imrewang/DodgeBullets/blob/main/DodgeBullets%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png?raw=true)
 
 ## 四、总结
 
